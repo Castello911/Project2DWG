@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Boss
+  - Portal
+  - FXSource
+  - MusicSource
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Parallax
+    uniqueID: 939123759
+    locked: 0
+  - name: BackEnvironment
+    uniqueID: 3616393923
+    locked: 0
+  - name: Entities
+    uniqueID: 1349694905
+    locked: 0
+  - name: FrontEnvironment
+    uniqueID: 2054161299
+    locked: 0

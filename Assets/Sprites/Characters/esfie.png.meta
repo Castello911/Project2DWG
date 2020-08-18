@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 1618ef5fdf79a2849aa64c85eeb6d46e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5302809270261296826
+    second: esfie_0
+  - first:
+      213: -2233494200112792683
+    second: esfie_1
+  - first:
+      213: 8001893940558472914
+    second: esfie_2
+  - first:
+      213: -3633467621262826803
+    second: esfie_3
+  - first:
+      213: -3673797617053124940
+    second: esfie_4
+  - first:
+      213: 1732465197836771250
+    second: esfie_5
+  - first:
+      213: -8547623957936941592
+    second: esfie_6
+  - first:
+      213: -4320038397290077626
+    second: esfie_7
+  - first:
+      213: -5003070566369598601
+    second: esfie_8
+  - first:
+      213: -1223530847430068087
+    second: esfie_9
+  - first:
+      213: 625969475266717692
+    second: esfie_10
+  - first:
+      213: 7641981046471858532
+    second: esfie_11
+  - first:
+      213: -1248126529301105184
+    second: esfie_12
+  - first:
+      213: -8586296377009002985
+    second: esfie_13
+  - first:
+      213: -6651595630209151846
+    second: esfie_14
+  - first:
+      213: -2460201239042733502
+    second: esfie_15
+  - first:
+      213: 2535717741013992066
+    second: esfie_0
+  - first:
+      213: -3311726114942442490
+    second: esfie_1
+  - first:
+      213: -2403454681353648552
+    second: esfie_2
+  - first:
+      213: 6025083183468189095
+    second: esfie_3
+  - first:
+      213: -3456070578479920784
+    second: esfie_4
+  - first:
+      213: -5677404025913489061
+    second: esfie_5
+  - first:
+      213: -5269743206012189433
+    second: esfie_6
+  - first:
+      213: -3828603641740342070
+    second: esfie_7
+  - first:
+      213: 3065071839284112955
+    second: esfie_8
+  - first:
+      213: -2190930582315964352
+    second: esfie_9
+  - first:
+      213: -2519396493919251204
+    second: esfie_10
+  - first:
+      213: 8766677356126711456
+    second: esfie_11
+  - first:
+      213: -4467981608885128647
+    second: esfie_12
+  - first:
+      213: 7496226843994520286
+    second: esfie_13
+  - first:
+      213: -1209436601943607975
+    second: esfie_14
+  - first:
+      213: -1573080800334134587
+    second: esfie_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: esfie_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2828bc3c9dda03320800000000000000
+      internalID: 2535717741013992066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esfie_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604a87d05a26a02d0800000000000000
+      internalID: -3311726114942442490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esfie_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8568a2c83b635aed0800000000000000
+      internalID: -2403454681353648552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esfie_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a51dccab356d9350800000000000000
+      internalID: 6025083183468189095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esfie_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0798603be129900d0800000000000000
+      internalID: -3456070578479920784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esfie_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59cd0d5e1fc531b0800000000000000
+      internalID: -5677404025913489061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esfie_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7058d14797c1ed6b0800000000000000
+      internalID: -5269743206012189433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esfie_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acccc4cc5411edac0800000000000000
+      internalID: -3828603641740342070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esfie_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e259f2992598a20800000000000000
+      internalID: 3065071839284112955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esfie_9
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04864815e304891e0800000000000000
+      internalID: -2190930582315964352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esfie_10
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf41493bc3e490dd0800000000000000
+      internalID: -2519396493919251204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esfie_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aea4688b9e79a970800000000000000
+      internalID: 8766677356126711456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esfie_12
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9327c6b266a8ef1c0800000000000000
+      internalID: -4467981608885128647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esfie_13
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 0
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda7a001992f70860800000000000000
+      internalID: 7496226843994520286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esfie_14
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 0
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955bbc281d7373fe0800000000000000
+      internalID: -1209436601943607975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esfie_15
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 0
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2c81db85b4b2ae0800000000000000
+      internalID: -1573080800334134587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8faee64049cb98b4ea4360279bf408b8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
